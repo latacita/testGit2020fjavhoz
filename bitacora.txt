@@ -1,8 +1,17 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): de la Hoz Ayuso, Francisco Javier    %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+10.	checkout master
+11.	push DatosPersonales
+12.					(Si se quiere realizar la fusión de cada una
+					de las ramas, una de ellas deberá ser fast-forward
+					concretamente la primera rama que se fusione
+					mientras que la segunda deberá ser necesariamente
+					recursiva puesto que la rama master
+					contiene información que la segunda rama no tendrá)
+13.	add + commit -m "Paso 13"
