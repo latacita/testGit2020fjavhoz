@@ -6,6 +6,10 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+6.	checkout master
+7.	checkout -b Antecedentes
+8.	Se crea el fichero Antecedentes.txt y se edita con los antecedentes del alumno
+9.	add + commit -m "Paso 09"
 10.	checkout master
 11.	push DatosPersonales
 12.					(Si se quiere realizar la fusión de cada una
@@ -15,3 +19,4 @@
 					recursiva puesto que la rama master
 					contiene información que la segunda rama no tendrá)
 13.	add + commit -m "Paso 13"
+
