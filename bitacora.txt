@@ -24,3 +24,14 @@
 					recursiva puesto que la rama master
 					contiene información que la segunda rama no tendrá)
 13.	add + commit -m "Paso 13"
+14.	merge Antecedentes		(Se ha realizado este paso con Sourcetree y se ha 
+					seleccionado la opción "Create a new commit even
+					if fast-forward is possible", además han ocurrido
+					conflictos los cuales se han resuelto y se ha realizado
+					posteriormente un add + commit)
+15.	merge DatosPersonales		(Se ha realizado este paso con Sourcetree y se ha 
+					seleccionado la opción "Create a new commit even
+					if fast-forward is possible", además han ocurrido
+					conflictos los cuales se han resuelto y se ha realizado
+					posteriormente un add + commit)
+16. Se edita bitacora.txt con un editor y se hace add + commit
