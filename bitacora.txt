@@ -35,3 +35,7 @@
 					conflictos los cuales se han resuelto y se ha realizado
 					posteriormente un add + commit)
 16. Se edita bitacora.txt con un editor y se hace add + commit
+17. tag FusionTerminada			(Se realiza este paso desde Sourcetree)
+18. push master				(Se realiza este paso desde Sourcetree)
+19. Se edita bitacora.txt, add + commit,(Se realiza este paso desde Sourcetree)
+    push master 
