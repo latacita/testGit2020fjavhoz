@@ -1,8 +1,27 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): de la Hoz Ayuso, Francisco Javier    %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1.	clone
+2.	checkout -b DatosPersonales
+3.	Se edita el fichero PlanVacunacion.txt con un editor de texto
+4.	Se edita el fichero bitacora.txt con un editor de texto
+5.	add + commit -m "Paso 05"
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
