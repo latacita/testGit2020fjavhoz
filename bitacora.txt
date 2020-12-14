@@ -6,6 +6,11 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1.	clone
+2.	checkout -b DatosPersonales
+3.	Se edita el fichero PlanVacunacion.txt con un editor de texto
+4.	Se edita el fichero bitacora.txt con un editor de texto
+5.	add + commit -m "Paso 05"
 6.	checkout master
 7.	checkout -b Antecedentes
 8.	Se crea el fichero Antecedentes.txt y se edita con los antecedentes del alumno
@@ -19,4 +24,3 @@
 					recursiva puesto que la rama master
 					contiene información que la segunda rama no tendrá)
 13.	add + commit -m "Paso 13"
-
